@@ -1,0 +1,24 @@
+h2{
+    text-align:center;
+}
+p{
+    color: darkblue;
+}
+h1{
+    color: orangered;
+    text-align: center;
+}
+#paragrafo_1{
+    color: darkgreen;
+}
+.laranja{
+    color: orange;
+    background: darkorchid;
+}
+.vermelho{
+    color: red;
+    text-decoration: underline;
+}
+div{
+    background-color: #333366;
+}
